@@ -1,5 +1,5 @@
 # GS-Quantify2017
-### Winner's Solution of Predicting Garbage Collector Invocation
+### Winner's Solution for Predicting Garbage Collector Invocation
 
 ### Team Name: Analytics_rangers
 
