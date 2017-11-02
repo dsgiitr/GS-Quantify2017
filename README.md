@@ -3,7 +3,7 @@
 
 ### Team Name: Analytics_rangers
 
-### Team Members: Roopkishor Singh|Harsh Singhal|Gaurav Jindal
+### Team Members: Roopkishor Singh| Harsh Singhal| Gaurav Jindal
 
 ## Problem Statement:
 
