@@ -7,7 +7,7 @@
 
 ## Problem Statement:
 
- * Garbage Collector Invocation *
+### Garbage Collector Invocation 
 
 Overall objective of this challenge is to use provided data to predict when Garbage Collector gets triggered,
 and the amount of free memory available.
